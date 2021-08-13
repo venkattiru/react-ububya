@@ -38,13 +38,14 @@ svg {
   margin: auto;
   width: 50px;
   height: 50px;
-  background-color: #e25e17 !important;
+  background-color: #4c87fb !important;
 }
 .MuiPaper-elevation1 {
   margin-top: 10px;
 }
 .MuiCardHeader-content {
   text-align: center;
+  color: cornflowerblue !important;
 }
 .MuiInput-root {
   margin-right: 10px;
